@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+  color: crimson;
+  background-color: silver;
+}
+body {
+    background-image: url("https://i.ytimg.com/vi/tAfUUBuNj_k/maxresdefault.jpg");
+    background-size: cover;
+  }
