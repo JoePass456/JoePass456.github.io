@@ -1,9 +1,18 @@
 h1 {
   text-align: center;
-  color: crimson;
-  background-color: silver;
+  color: black;
+  background-color: white;
+}
+h3 {
+  color: lightseagreen;
+}
+h4 {
+  color: black;
 }
 body {
-    background-image: url("https://i.ytimg.com/vi/tAfUUBuNj_k/maxresdefault.jpg");
+    background-image: url('../img/IMG_0988.jpeg');
     background-size: cover;
-  }
+}
+p {
+  color: black;
+}
