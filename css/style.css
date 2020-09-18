@@ -1,15 +1,21 @@
-a {
-  /* border: solid 3px black; */
-  font-size: 150%
-  padding: 10px;
-  margin: 10px;
+article h3, article h2 {
+  text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+nav p, nav a {
+  padding: 10px;
+  margin: 10px;
+  font-size: 112%;
+
+}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 25%;
 }
 
 header {
