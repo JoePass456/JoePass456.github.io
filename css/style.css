@@ -1,85 +1,16 @@
-article h3, article h2 {
-  text-align: center;
+html {
+  scroll-behavior: smooth;
 }
-
-h3 {
-  text-align: center;
-}
-nav p, nav a {
-  padding: 10px;
-  margin: 10px;
-  font-size: 112%;
-
-}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
-}
-
-header {
-  border: solid 3px black; 
-  padding: 5px;
-  margin: 40px;
+.marble {
   background-image: url('../img/IMG_0988.jpeg');
   background-size: cover;
-  border-radius: 10px;
 }
-
-header h3 {
-  color: lightseagreen;
-  text-align: center;
-}
-
-header h4 {
-  text-align: center;
+.gill {
   font-family: "Gill Sans", sans-serif;
 }
-
-header h1 {
-  font-family: "Gill Sans", sans-serif;
-}
-
-nav {
-  /* border: solid 3px black; */
-  font-family: "Gill Sans", sans-serif;
-  padding: 10px;
-  margin: 10px;
-  text-align: center;
-  /* width: 2px; */
-}
-
-article {
-  border: solid 3px black;
-  border-radius: 10px;
-  padding: 40px;
-  margin: 40px;
-  background-image: url('../img/IMG_0988.jpeg');
-  background-size: cover;
-  font-family: "Gill Sans", sans-serif;
-}
-
-h1 {
-  
-  text-align: center;
-  color: black;
-  /*background-color: white;*/
-}
-
-h4 {
-  color: black;
-}
-
-img {
-  border-radius: 10px;
-}
-
-body {
-    /*background-image: url('../img/IMG_0988.jpeg');
-    background-size: cover;*/
-    background-color: whitesmoke;
-}
-p {
-  color: black;
+.edge {
+  /*border-radius: 10px;*/
+  border: top 1px grey;
+  border: left 1px grey;
+  border: right 1px grey;
 }
