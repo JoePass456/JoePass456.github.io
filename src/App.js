@@ -1,26 +1,49 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
+import Header from './Header';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+
+class App extends Component {
+  constructor() {
+    super();
+    this.name = 'Joe';
+    this.age = 43;
+    this.state = {
+      clicked: 0
+    }
+    this.clickHandler = this.clickHandler.bind(this);
+  }
+
+
+  clickHandler(e) {
+    this.setState({ clicked: this.state.clicked + 1 })
+  }
+  render() {
+    return (
+      <div className="App">
+        <div className="container rounded width: 300px height: 500px border border-danger">
+          <h1>
+            Joe's Blog
+        </h1>
+          <Header
+            text="Testing"
+            name={this.name}
+            age={this.age}
+            musician
+            clicked={this.state.clicked}
+          />
+        </div>
+        clicked: {this.state.clicked}
+        <button
+          type="button"
+          className="btn btn-primary"
+          onClick={this.clickHandler}
+        >click me!
+          </button>
+      </div>
+    );
+  }
 }
 
 export default App;
