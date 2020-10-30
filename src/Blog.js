@@ -2,8 +2,12 @@ import React from 'react';
 import { Row, Col } from 'reactstrap';
 
 function Blog(props) {
-    console.log(props.blogData[0].Heading, props.blogPage);
+    // console.log(props.blogData[props.blogPage], );
     let blogPost = [];
+    blogPost = props.blogData[props.blogPage].Paragraphs.map((para, i) => {
+        return<p key={i}>{para}</p>
+    });
+
 
 
     return (
@@ -19,8 +23,10 @@ function Blog(props) {
             {/* <!-- Blog DisplayeNamer  --> */}
             <div className="row edge">
                 <div className="col text-left p-4 bg-light">
-                    {/* <h3>{props.blogData[props.blogPage].Heading}</h3> */}
+                    <h3>{props.blogData[props.blogPage].Heading}</h3>
                     {blogPost}
+                    <h4>Summary:</h4>
+                    <h6>{props.blogData[props.blogPage].Summary}</h6>
                 </div>
             </div>
         </div>

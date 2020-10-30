@@ -8,9 +8,8 @@ function Header(props) {
         <div id="blog" className="container-fluid gill marble edge">
             <div className="row">
                 <div className="col text-center p-3">
-                    <h1>Hello World!</h1>
-                    <h4>Joe blogs through Awesome Inc's web developer
-                    bootcamp</h4>
+                    <h1>{props.heading}</h1>
+                    <h4>{props.subHeading}</h4>
                 </div>
             </div>
             <div className="row text-center">
