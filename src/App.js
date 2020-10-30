@@ -1,49 +1,25 @@
-import React, { Component } from 'react';
-import './App.css';
-import Header from './Header';
+import React, { Component } from "react";
+import "./App.css";
+import blogData from "./blog_data.json";
+import Header from './Header.js';
+import Blog from './Blog.js';
+import { Row, Col, Container } from 'reactstrap';
 
+function App() {
+  const [blogPage, setBlogPage] = useState(0);
 
-
-class App extends Component {
-  constructor() {
-    super();
-    this.name = 'Joe';
-    this.age = 43;
-    this.state = {
-      clicked: 0
-    }
-    this.clickHandler = this.clickHandler.bind(this);
-  }
-
-
-  clickHandler(e) {
-    this.setState({ clicked: this.state.clicked + 1 })
-  }
-  render() {
-    return (
-      <div className="App">
-        <div className="container rounded width: 300px height: 500px border border-danger">
-          <h1>
-            Joe's Blog
-        </h1>
-          <Header
-            text="Testing"
-            name={this.name}
-            age={this.age}
-            musician
-            clicked={this.state.clicked}
-          />
-        </div>
-        clicked: {this.state.clicked}
-        <button
-          type="button"
-          className="btn btn-primary"
-          onClick={this.clickHandler}
-        >click me!
-          </button>
-      </div>
-    );
-  }
+const scrollBlog = (page) => {                                                                                                                                                                                                                                                                                                                                                                                     
+  let newPage = blogPage + page;
+  setBlogPage(newPage);
+  console.log('in scrollBlog');
 }
+
+  return (
+    <Container>      
+        <Header />
+        <Blog blogPage={blogPage} scrollBlog={scrollBlog} blogData={blogData}/>
+    </Container>
+  );
+}                                                                                                                          
 
 export default App;

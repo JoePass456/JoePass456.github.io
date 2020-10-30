@@ -62,7 +62,15 @@ var blogPost = {
 
 
 
-window.onload = displayBlog(0);
+window.onload = createJSON();
+
+function createJSON() {
+
+    console.log(blogPost);
+    
+
+}
+
 
 function displayBlog(x) {
     week += x;
