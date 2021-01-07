@@ -1,24 +1,24 @@
 [
     {
-        "Heading": "Week 1: August 24 to 28",
+        "Heading": "Prework Week 1: August 24 to 28",
         "Paragraphs": [
             "Was my first week what I expected? Yes and no. Yes in terms of the fact that I had had a taste of what the bootcamp would be like in the course of completing the application project. In this project, I was tasked with using HTML to create a simple website with some basic text and images. Instead of detailed instructions, I was provided with links to sites that would provide the information I needed in order to complete each goal. The first week was similar to that except that the list of resources was far larger and the tasks much more complex. The major difference is that now I had the advantage of being able to access the instructers, Ian and Justin, as well as any if the 13 other students, for guidance or help via a program called Slack, an instant messaging system similar to an always-online chatroom.",
             "Were there struggles? Yes. The only way that the first week was NOT what I expected was in the sheer volume of content. It was definitely overwhelming, and while I was advised to expect up to 20 hours of work in the first week, it was certainly possible to spend far more time combing through the several seemingly bottomless links that were given as resources. In fact, I had to make a special effort to stay on task, as the material lends itself to wondering down rabbit holes. While this did lead to a bit of frustration, guidance was never far away. Also helpful was the daily check-in online conference calls which gave me chance to explain where I was having difficulty and learn from the experiences of other students. Overall, while I felt very challanged, I knew that I had help waiting in the wings if I did manage to get too deep in the weeds.",
-            "What I\"m excited to learn about in the coming weeks is how to continue to grow this initial knowledge into a toolbox for software development!"
+            "What I'm excited to learn about in the coming weeks is how to continue to grow this initial knowledge into a toolbox for software development!"
         ],
         "Summary": "Introduction to use of HTML, CSS, Slack, Git, Github, MAMP, Chrome Dev Tools, VS Code, and Terminal"
     },
     {
-        "Heading": "Week 2: Aug 31 to Sept 4",
+        "Heading": "Prework Week 2: Aug 31 to Sept 4",
         "Paragraphs": [
             "Week two is pretty much in the books. This week the main focus was on psuedocoding. This is a process of planning out your actual code in a more structured manner. This can be done with plain text or in a graphical format such as a flowchart, whether on computer or on a dry erase board. This allows the programmers to break the software into bite sized pieces that can be attacked one at a time instead of just jumping Rambo-style into the code without any plan.",
-            "We also learned about the Agile philosophy, which is way to interact with your team and clients in a way that keeps the project moving steadily forward, and MoSCoW, which is a way to look at a program through the prism of what it Must do, what it Should do, what it Could do, and what it Won\"t do. This makes you look at your work in a more pragmatic fashion, so you prioritize getting the software up and running, and also helps you to figure out what features are going to be within the scope of the project, versus what might have to wait.",
-            "What I\"ve struggled with this week as much as anything else is simply managing my time. A week is not a long time, and if you have a couple of days where you don\"t get much accomplished, it can have you straining to catch up. Also, as we get closer to being fulltime in the classroom, I really want to be getting into the 8 to 5 schedule now, so it won\"t be a shock to my system when we do get to that stage."
+            "We also learned about the Agile philosophy, which is way to interact with your team and clients in a way that keeps the project moving steadily forward, and MoSCoW, which is a way to look at a program through the prism of what it Must do, what it Should do, what it Could do, and what it Won't do. This makes you look at your work in a more pragmatic fashion, so you prioritize getting the software up and running, and also helps you to figure out what features are going to be within the scope of the project, versus what might have to wait.",
+            "What I've struggled with this week as much as anything else is simply managing my time. A week is not a long time, and if you have a couple of days where you don\"t get much accomplished, it can have you straining to catch up. Also, as we get closer to being fulltime in the classroom, I really want to be getting into the 8 to 5 schedule now, so it won\"t be a shock to my system when we do get to that stage."
         ],
         "Summary": "Introduction to pseudocode, Agile, MoSCoW, and deeper delving into HTML and CSS"
     },
     {
-        "Heading": "Week 3: Sept 7 to 11",
+        "Heading": "Prework Week 3: Sept 7 to 11",
         "Paragraphs": [
             "This week started with Labor Day, which gave me a nice day to spend with family, but also meant that I was starting one day behind. This meant that I had to spend a lot of extra time to keep caught up with the material. While we had a lot of HTML and CSS to work on this week, the main focus was on Javascript(JS).",
             "I had only barely worked with JS before, but it does remind me a bit of working with BASIC way back in the 90\"s, in that it uses mostly english words for the different elements. However, the way in which JS interacts with HTML is so far very confusing. That said, I am glad to really be digging into some actual coding, instead of just arranging HTML and CSS, as fun as that is. Javascript seems to be the door to more sophisticated programming.",
@@ -27,41 +27,123 @@
         "Summary": "Introduction to Javascript, CodeWars, and pair programming, plus more HTML, CSS"
     },
     {
-        "Heading": "Week 4: Sept 14 to 18",
+        "Heading": "Prework Week 4: Sept 14 to 18",
         "Paragraphs": [
-            "This was the last week of remote work before we move on-site to Awesome Inc\"s building in downtown Lexington. While I\"ll miss working from home in some ways, I\"m excited to get started in the core bootcamp experience.",
-            "This week was quite challenging, and I was definitely feeling some pressure leading up to today\"s demo. This week we were tasked with creating two programs from scratch that implemented some functions we had not used before. The process of adding the elements of HTML, CSS, and Javascript together into one cohesive workflow is still pretty new to me, so I ended up having to rely on some of the previous projects as a rough template to complete the new ones. The results were a couple of Frankenstein\"s monsters that didn\"t look pretty, but get the job done.",
+            "This was the last week of remote work before we move on-site to Awesome Inc's building in downtown Lexington. While I'll miss working from home in some ways, I'm excited to get started in the core bootcamp experience.",
+            "This week was quite challenging, and I was definitely feeling some pressure leading up to today's demo. This week we were tasked with creating two programs from scratch that implemented some functions we had not used before. The process of adding the elements of HTML, CSS, and Javascript together into one cohesive workflow is still pretty new to me, so I ended up having to rely on some of the previous projects as a rough template to complete the new ones. The results were a couple of Frankenstein's monsters that didn't look pretty, but get the job done.",
             "Most of the coding makes sense so far, but due to the breakneck pace we are pushing, it's difficult to get comfortable with anything, since as soon as we complete a project learning one skill we are immediately on to something else. It will be interesting to see how the pacing accelerates once we are meeting in person.",
-            "My focus remains on improving my time management. At this point I already have way more material available than I can possibly cover, so I need to be sure I\"m spending my time wisely"
+            "My focus remains on improving my time management. At this point I already have way more material available than I can possibly cover, so I need to be sure I'm spending my time wisely"
         ],
         "Summary": "Image gallery, Countdown timer, Digital Clock"
     },
     {
-        "Heading": "Week 5: Sept 21 to 25",
+        "Heading": "Week 1: Sept 21 to 25",
         "Paragraphs": [
-            "This has been the first week on-site at Awesome Inc. It\"s been exciting working in close (closer, at least) proximity with the other bootcampers. Being here in person has created a new set of challenges, such as getting up in the morning, planning the commute, and figuring out how I\"m going to feed myself though the course of the day.",
-            "As always, the workload, including reading and projects is overwhelming. I\"m trying to make a point to spend my time productively, but it\"s easy to get lost doing research and experimenting for hours only to realize that I\"ve not really getting anything accomplished. Time management is always a key element that I\"m always trying to improve.",
-            "The subjects we\"ve been concentrating on are Bootstrap, Javascript, and conceptualizing websites with atomic design, which is breaking down HTML into it\"s smallest form(atoms) and observing how to build them into bigger molecules and organisms. Projects for the week were to build a \"mindreader\" app that utilizes \"states\" and to create a \"campaign\" website for a fictional character. I choose Walter Sobchak from the Big Lewbowski.",
+            "This has been the first week on-site at Awesome Inc. It's been exciting working in close (closer, at least) proximity with the other bootcampers. Being here in person has created a new set of challenges, such as getting up in the morning, planning the commute, and figuring out how I'm going to feed myself though the course of the day.",
+            "As always, the workload, including reading and projects is overwhelming. I'm trying to make a point to spend my time productively, but it's easy to get lost doing research and experimenting for hours only to realize that I've not really getting anything accomplished. Time management is always a key element that I'm always trying to improve.",
+            "The subjects we've been concentrating on are Bootstrap, Javascript, and conceptualizing websites with atomic design, which is breaking down HTML into it's smallest form(atoms) and observing how to build them into bigger molecules and organisms. Projects for the week were to build a 'mindreader' app that utilizes 'states' and to create a 'campaign' website for a fictional character. I choose Walter Sobchak from the Big Lewbowski.",
             "This weekend I intend to take one last breath before the plunge on monday. After that, it will be three months of intensity. I just hope all this knowledge will fit in my brain..."
         ],
         "Summary": "Atomic principals, Bootstrap 4, Javascript"
     },
     {
-        "Heading": "Week 6: Sept 28 to Oct 2",
+        "Heading": "Week 2: Sept 28 to Oct 2",
         "Paragraphs": [
-            "I\"m writing this a week late (shame on me) and what really stands out is how long ago last week seems.  We are going over so much content that last week seems more like last month.",
-            "Last week was all about learning to fetch API and rendering HTML from Javascript.  Also we added bootstrap to our blogs.  In my case I rebuilt everything from the ground up and I was able to consolidate my blog down to one long page.  Also I\"ve added some real-time rendering for my actual blog post.  I hope you are having fun pressing the buttons! (also I hope everything is actually working)",
+            "I'm writing this a week late (shame on me) and what really stands out is how long ago last week seems.  We are going over so much content that last week seems more like last month.",
+            "Last week was all about learning to fetch API and rendering HTML from Javascript.  Also we added bootstrap to our blogs.  In my case I rebuilt everything from the ground up and I was able to consolidate my blog down to one long page.  Also I've added some real-time rendering for my actual blog post.  I hope you are having fun pressing the buttons! (also I hope everything is actually working)",
             "Later today I will be updating about this weeks projects, which were the most challanging yet."
         ],
         "Summary": "Bootstrap blog, Weather App, Async functions, APIs"
     },
     {
-        "Heading": "Week 7: Oct 5 to 9",
+        "Heading": "Week 3: Oct 5 to 9",
         "Paragraphs": [
             "This week I have finally gotten the hang of rendering HTML stright from JS, which is perfect timing as that skill may be obsolete next week with the beginning of React. But really this week was more an introduction to object oriented programming, or OOP and MVC design.",
             "MVC, or Model-View-Controller is a new way to look at the structure of programming and is also another lead-in to React in some ways. I honestly find it quite tough to grasp.",
-            "We have been instructed to begin brainstorming about what we might do for our final projects, but I have only thought about it in a passing fashion; there is simply so much on my plate that I can\"t really fit anything else on there, and anyway, I feel like, in the end, the right idea will just fall out of the sky and hit me on the head.  In any case, I\"m keeping my mind open to whatever might present itself."
+            "We have been instructed to begin brainstorming about what we might do for our final projects, but I have only thought about it in a passing fashion; there is simply so much on my plate that I can't really fit anything else on there, and anyway, I feel like, in the end, the right idea will just fall out of the sky and hit me on the head.  In any case, I'm keeping my mind open to whatever might present itself."
         ],
         "Summary": "Tic Tac Toe, Calculator, MVC, Object Oriented Design"
+    },
+    {
+        "Heading": "Week 4: Oct 12 to 16",
+        "Paragraphs": [
+            "This week we started the on React, which builds on top of JS.  Even by the end of the week I was realy struggling to get the hang of it.  While is uses JS as a base there is so much structure and new syntax to learn it is quite overwhelming.",
+            "It's clear that React can be a powerful tool, but it makes my head hurt just trying to get started on our projects.  This is also the first time I feel like I am being forced into using classes which is something that had already been out of my scope of understanding",
+            "Hopefully I'll be able to get a handle on these concepts moving forward, as well as getting better and building my programs in a more modular, component based style."
+        ],
+        "Summary": "Intro to React, To-do List, React Blog, Reading: Pragmatic Programmer"
+    },
+    {
+        "Heading": "Week 5: Oct 19 Oct 23",
+        "Paragraphs": [
+            "At the begininng of this week I thought that if you gave me an infinite amount of time I would never figure out React.  At the end of the week I can finally say that I'm starting to grasp it.",
+            "It's amazing that a 'framework' can be so different in terms of syntax, but once you start to see the light it begins to make sense."
+        ],
+        "Summary": "Todo List, React Restaurant, React Puzzle Slider Project."
+    },
+    {
+        "Heading": "Week 6: Oct 26 to Oct 30",
+        "Paragraphs": [
+            "Now, we introduce hooks.  And while it seems like a better way to React, it is still different, so it's hard.",
+            "But, in general, React seems to bring a lot to the table in terms of it's ability to manage state. I look forward to re-thinking my previous projects with this new tech."
+        ],
+        "Summary": "Intro to React Hooks, Fishing Hooks Project, React Puzzle Slider, Pragmatic Programmer"
+    },
+    {
+        "Heading": "Week 7: Nov 2 to Nov 6",
+        "Paragraphs": [
+            "This week we've made the transition to back-end developement.  PHP is a new language, but it is not entirely different from Javascript.  MySQL is a database for the back-end that allows data to be stored in custom tables.",
+            "PHP is a bit more rigid than JS.  While a forgotten semicolon in JS may not break the program, in PHP it is a showstopper.  Conversely, since variables are not 'declared' in PHP, the program will NOT break if you misspell a variable somewhere along the way, which can sometimes make finding a bug tricky.",
+            "Between all the different things we've added this week, it has been a real struggle, but I try to take one day at a time and soak in as much knowledge as possible."
+        ],
+        "Summary": "Intro to PHP, MySQL, and Laravel, SQL Heroes Project "
+    },
+    {
+        "Heading": "Week 8: Nov 9 to Nov 13" ,
+        "Paragraphs": [
+            "Working on Laravel has been very challenging.  Similar to React with Javascript, it completely changes the way in which we use PHP.  Furthermore, the syntex is so different that it might as well be another language.",
+            "That being said, it's clearly easier to deal with than trying to deal with mySQL with basic PHP like we did with the SQL Heroes project, and I like the way it breaks up the Model, View, and Controllers."
+        ],
+        "Summary": "Laravel Library, deeper dive into Laravel and mySQL"
+    },
+    {
+        "Heading": "Week 9: Nov 16 to Nov 20",
+        "Paragraphs": [
+            "This week has been a good look into the life of a developer.  More precisely, how we will incounter problems and figure out solutions to them.",
+            "The latest update to Laravel has caused it to be incompatible with React, therefore we are switching to a slightly different version called Lumen.",
+            "While this has caused numberous headaches, it also shows the kinds of problems that we may run into once we enter the actual work envirnment."
+        ],
+        "Summary": "Attack of the Clones, Lumen, mySQL"
+    },
+    {
+        "Heading": "Week 10: Nov 23 to Nov 27",
+        "Paragraphs": [],
+        "Summary": "Final Project MVP, Moscow, Agile developement"
+    },
+    {
+        "Heading": "Week 11: Nov 30 to Dec 4",
+        "Paragraphs": [
+            "This week I've been working on my final project, which was originally my Twitter clone project but now I have morphed into a 'quoter' program.  With code freeze at midnight on Tuesday next week, the final demo day is looming ever closer.",
+            "I pretty much worked all weekend to get my app in running order, and I'm pretty happy with it.  I might try to add a delete and edit function at the last minute."
+        ],
+        "Summary": "Worked on Final Project"
+    },
+    {
+        "Heading": "Week 12: Dec 7 to Nov 11",
+        "Paragraphs": [
+            "It's Demo Day!"
+        ],
+        "Summary": ""
+    },
+    {
+        "Heading": "New Years 2021 Blog",
+        "Paragraphs": [
+            "Finally, 2020 is over.  With it also goes my time at Awesome Inc Bootcamp.  Now, as 2021 opens up before me I embark on the next leg of my journey.",
+            "The first priority is to find a new job.  The second priority is continuing to learn new skills and refining the skills I learned in bootcamp.  And the third is to begin work on a pet project.",
+            "While the first is somewhat straight forward, figuring out which ways to branch out to new areas is a little more complicated.  But that's why I want to start a project that I am passionate about.",
+            "My initial thoughts are to create a game in Unity.  I've always thought making a game would be a great way to flex my creative muscles, from graphics, to music, to gamplay, and world building.  Plus Unity uses C# so it's a good way to start expanding my code knowledge."
+        ],
+        "Summary": "This is only the begining!"
     }
+    
 ]

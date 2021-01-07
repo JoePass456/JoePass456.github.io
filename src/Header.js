@@ -12,7 +12,7 @@ function Header(props) {
                     <h4>{props.subHeading}</h4>
                 </div>
             </div>
-            <div className="row text-center">
+            {/* <div className="row text-center">
                 <div className="col">
                     <a href="#projects">PROJECTS</a>
                 </div>
@@ -22,7 +22,7 @@ function Header(props) {
                 <div className="col">
                     <a href="#about">ABOUT JOE</a>
                 </div>
-            </div>
+            </div> */}
         </div>
     )
 };
